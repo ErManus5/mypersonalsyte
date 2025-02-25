@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(218, 255, 223);
+    color: rgb(10, 0, 75);
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    text-align: center;
+}
+.alen{
+    text-align: left;
+}
